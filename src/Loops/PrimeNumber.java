@@ -15,6 +15,7 @@ public class PrimeNumber
             System.out.println("Not Prime");
         }else{
             for(int i=2;i<=n/2;i++){
+                // n is a multiple of i (i not equal to 1 or n)
                 if(n%i==0)
                 {
                     isPrime=false;
