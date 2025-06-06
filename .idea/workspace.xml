@@ -1,32 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e3b119-9a3d-4c08-93e0-6a4606846884" name="Changes" comment="" />
+    <list default="true" id="99e3b119-9a3d-4c08-93e0-6a4606846884" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Loops/Qs/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/PrintNumbersFrom1to10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/PrintNumbersFrom1to10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/Qs/Qs_ContinueKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/Qs/Qs_ContinueKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/SumOfFirstNNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/SumOfFirstNNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/Problem4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2uuIwvMrH8Kn4Zbnt51DYDUkGoZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaofCircle.executor": "Run",
+    "Application.Averageof3Numbers.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.IncomeTaxCalculator.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.Largestof2Number.executor": "Run",
+    "Application.Largestof3Numbers.executor": "Run",
+    "Application.Loops.PrimeNumber.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NumberIsOddOrEven.executor": "Run",
+    "Application.NumbersFrom1toN.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.PrintNumbersFrom1to10.executor": "Run",
+    "Application.PrintSquarePattern.executor": "Run",
+    "Application.Problem3.executor": "Debug",
+    "Application.Problem4.executor": "Debug",
+    "Application.Qs_ContinueKeyword.executor": "Run",
+    "Application.Qs_SumofOddEvenIntegers.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.SimpleInterest.executor": "Run",
+    "Application.SumOfFirstNNaturalNumbers.executor": "Run",
+    "Application.Sumof2Numbers.executor": "Run",
+    "Application.SumofFIrstnNaturalNos.executor": "Run",
+    "Application.TernaryOperator.executor": "Run",
+    "Application.TypeCasting.executor": "Run",
+    "Application.TypePromotionInExpression.executor": "Run",
+    "Application.a4InputFromUserDataType.executor": "Run",
+    "Application.abc1Introduction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/amitsingh/Documents/Java-Data-Structure/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Flowcharts.PrimeNumber" />
+      <module name="Java-Data-Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Flowcharts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +117,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Operators/Problem4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
