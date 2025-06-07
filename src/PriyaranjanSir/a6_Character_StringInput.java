@@ -2,7 +2,7 @@ package PriyaranjanSir;
 
 import java.util.Scanner;
 
-public class a6_CharacterInput
+public class a6_Character_StringInput
 {
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
