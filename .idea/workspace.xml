@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e3b119-9a3d-4c08-93e0-6a4606846884" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops/Qs/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriyaranjanSir/a14_LogicalOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/PrintNumbersFrom1to10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/PrintNumbersFrom1to10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/Qs/Qs_ContinueKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/Qs/Qs_ContinueKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/SumOfFirstNNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/SumOfFirstNNaturalNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/Problem3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/Problem4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_1/HalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_1/HalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_1/InvertedStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_1/InvertedStars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern_1/StarPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern_1/StarPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriyaranjanSir/a5_AsciiValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriyaranjanSir/a5_AsciiValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PriyaranjanSir/a6_Character_StringInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PriyaranjanSir/a6_Character_StringInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +45,15 @@
     "Application.Averageof3Numbers.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.HalfPyramid.executor": "Run",
     "Application.IncomeTaxCalculator.executor": "Run",
+    "Application.InvertedStars.executor": "Run",
     "Application.LargestNumber.executor": "Run",
     "Application.Largestof2Number.executor": "Run",
     "Application.Largestof3Numbers.executor": "Run",
     "Application.Loops.PrimeNumber.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
     "Application.NumberIsOddOrEven.executor": "Run",
     "Application.NumbersFrom1toN.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
@@ -64,6 +65,7 @@
     "Application.Qs_SumofOddEvenIntegers.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.SimpleInterest.executor": "Run",
+    "Application.StarPattern.executor": "Run",
     "Application.SumOfFirstNNaturalNumbers.executor": "Run",
     "Application.Sumof2Numbers.executor": "Run",
     "Application.SumofFIrstnNaturalNos.executor": "Run",
@@ -71,6 +73,9 @@
     "Application.TypeCasting.executor": "Run",
     "Application.TypePromotionInExpression.executor": "Run",
     "Application.a4InputFromUserDataType.executor": "Run",
+    "Application.a5_AsciiValue.executor": "Run",
+    "Application.a6_CharacterInput.executor": "Run",
+    "Application.a8_MathFunc01.executor": "Run",
     "Application.abc1Introduction.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
