@@ -16,6 +16,15 @@ public class Factorial
         }
         return fact;
     }
+    public static int FactForLoop(int num1)
+    {
+        int fact=1;
+        for(int i=1;i<=num1;i++)
+        {
+            fact =fact*i;
+        }
+        return fact;
+    }
     public static void main(String args[])
     {
         Scanner in = new Scanner(System.in);
@@ -23,5 +32,7 @@ public class Factorial
         int factorial=in.nextInt();
         int f =FactWhile(factorial);
         System.out.println("Using while Loop Factorial of number is : " +f);
+        int f1=FactForLoop(factorial);
+        System.out.println("Using For Loop Facotrial of number is :" +f1);
     }
 }
