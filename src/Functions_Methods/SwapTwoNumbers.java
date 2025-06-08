@@ -13,6 +13,15 @@ public class SwapTwoNumbers
         System.out.println("A after swap : " +a);
         System.out.println("B after swap : " +b);
     }
+    public static void SwapUsing2Variable(int a,int b)
+    {
+        a=a+b;
+        b=a-b;
+        a=a-b;
+        System.out.println("Using 2 Variables .");
+        System.out.println("A after swap : " +a);
+        System.out.println("B after swap : " +b);
+    }
 
     public static void main(String args[])
     {
@@ -24,7 +33,7 @@ public class SwapTwoNumbers
         System.out.println("B before swap :"+b);
         System.out.println("------------------------");
         SwapUsing3rdVariable(a,b);
-
+        SwapUsing2Variable(a,b);
 
     }
 }
