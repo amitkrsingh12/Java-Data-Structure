@@ -3,9 +3,10 @@ package Functions_Methods;
 import java.util.Scanner;
 
 public class Sum_of2Numbers {
-    public static int Sum(int a,int b)
+    public static int Sum(int num1,int num2)      // parameters of formal parameters
     {
-        return a+b;
+        int sum=num1+num2;
+        return sum;
     }
     public static void main(String args[])
     {
@@ -14,7 +15,8 @@ public class Sum_of2Numbers {
         System.out.println("Enter two number whose sum you want?");
         a=in.nextInt();
         b=in.nextInt();
-        System.out.println("Sum of two numbers ? ");
-        System.out.println(Sum(a,b));
+        System.out.print ("Sum of two numbers : ");
+        int sum =Sum(a,b);      //Arguments or actual parameters
+        System.out.println(sum);
     }
 }
