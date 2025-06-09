@@ -14,8 +14,8 @@ public class BinomialCoefficient
     }
     public static void main(String args[])
     {
-        int n=10,r=2;
-        int Bin =BinaryCoeff(10,2);
+        int n=5,r=2;
+        int Bin =BinaryCoeff(n,r);
         System.out.println(Bin);
     }
 }
