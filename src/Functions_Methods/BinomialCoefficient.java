@@ -17,5 +17,6 @@ public class BinomialCoefficient
         int n=5,r=2;
         int Bin =BinaryCoeff(n,r);
         System.out.println(Bin);
+
     }
 }
