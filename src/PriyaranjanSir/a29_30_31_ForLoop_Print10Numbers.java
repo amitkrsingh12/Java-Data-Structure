@@ -1,6 +1,6 @@
 package PriyaranjanSir;
 
-public class a29_30_ForLoop_Print10Numbers
+public class a29_30_31_ForLoop_Print10Numbers
 {
     public static void main(String args[])
         {

@@ -2,7 +2,7 @@ package PriyaranjanSir;
 
 import java.util.Scanner;
 
-public class a21_SwapTwoNumber
+public class a21_Bitwise_SwapTwoNumber
 {
     public static void main(String args[])
     {
