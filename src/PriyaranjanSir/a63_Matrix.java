@@ -1,5 +1,4 @@
 package PriyaranjanSir;
-
 public class a63_Matrix
 {
     public static void main(String args[])
@@ -16,5 +15,4 @@ public class a63_Matrix
             System.out.println();
         }
     }
-
 }
