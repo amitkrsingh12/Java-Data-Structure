@@ -37,5 +37,6 @@ public class a60_InsertionSort
             System.out.print(arr[i]+ " ");
         }
         System.out.println();
+        in.close();
     }
 }
